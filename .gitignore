@@ -1,0 +1,12 @@
+kaggle.json
+venv/
+data/
+models/*.pth
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+outputs/
+*.zip
+*.tar.gz
+.env
